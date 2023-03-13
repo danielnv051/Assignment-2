@@ -3,7 +3,8 @@
 ## files description
 
 | GuessNumber.py | simple guess number match |
-![Guess Number Game](https://navarimachinary.ir/o/guess.png)
+
+| ![Guess Number Game](https://navarimachinary.ir/o/guess.png) |
 
 | RockPaperScissors.py | Rock , Paper , Scissors (RPS) Old Game |
 ![RPS Game](https://navarimachinary.ir/o/rps.png)
