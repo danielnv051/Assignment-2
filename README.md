@@ -1,6 +1,6 @@
-#Assigment 2
+# Assigment 2
 ---
-##files description
+## files description
 
 | GuessNumber.py | simple guess number match |
 ![Guess Number Game](https://navarimachinary.ir/o/guess.png)
