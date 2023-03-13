@@ -3,7 +3,7 @@
 ## files description
 
 ### GuessNumber.py 
-#### simple guess number match 
+#### Simple number guessing game 
 
 ![Guess Number Game](https://navarimachinary.ir/o/guess.png)
 
