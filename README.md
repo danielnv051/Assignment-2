@@ -4,19 +4,24 @@
 
 ### GuessNumber.py 
 #### Simple number guessing game 
-
 ![Guess Number Game](https://navarimachinary.ir/o/guess.png)
 
-
-| RockPaperScissors.py | Rock , Paper , Scissors (RPS) Old Game |
+### RockPaperScissors.py 
+#### Rock , Paper , Scissors (RPS) Old Game
 ![RPS Game](https://navarimachinary.ir/o/rps.png)
 
-| StudentScore.py | calculate students score |
+### convertToSecond.py
+#### give hour:minute:second format and convert to second
+![convert to second](https://navarimachinary.ir/o/cts.png)
 
-| ConvertTime.py | convert hours , minutes and seconds to second |
+### convertToTime.py
+#### give second and convert to hour:minute:second format
+![convert to time](https://navarimachinary.ir/o/ctt.png)
 
-| ConvertSecond.py | convert second to hours , minutes and seconds  |
+### dice.py
+#### dice simulator
+![dice](https://navarimachinary.ir/o/dice.png)
 
-| Dice.py | Dice simulate |
-
-| Fibonacci.py | print Fibonacci sequence  |
+### score.py
+#### calculate student average score
+![dice](https://navarimachinary.ir/o/score.png)

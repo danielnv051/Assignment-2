@@ -1,11 +1,13 @@
+#import library
 import random
 
+#define variables
 computer_choise = ''
-
 user_point = 0
 computer_point = 0
 round = 0
 
+#loop
 for i in range(3):
     round = i + 1
     print("♦♦♦♦♦♦♦♦♦♦♦♦♦♦ Round ",round,"♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦♦")
@@ -16,9 +18,11 @@ for i in range(3):
     items = {"c": "✂", "p":"📄", "s":"🧱"}
     user_choise = input("Choose: ")
 
+#print computer and user choise
     print("🧞 => ",items[user_choise])
     print("💻 => ",items[x])
 
+#conditions
     if user_choise=="c" or user_choise=="p" or user_choise=="s":
         if x == "c":
             computer_choise = "c"
@@ -57,6 +61,6 @@ for i in range(3):
         elif computer_choise =="c":
             computer_choise = computer_choise +1
 
-    
+#print user and computer scores    
     print("user : ",user_point)
     print("computer : ",computer_point)
